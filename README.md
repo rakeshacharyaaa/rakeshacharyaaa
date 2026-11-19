@@ -1,7 +1,7 @@
 ## Learning log
 
 <p align="center">
-  <img src="https://www.gitskins.com/api/section/hero?username=rakeshacharyaaa&theme=zen&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F155804333%3Fu%3Da5ef95ab5486bd32ba82f3f9c013e347c8ef3211%26v%3D4" alt="rakeshacharyaaa hero visual" />
+  <img src="https://www.gitskins.com/api/section/hero?username=rakeshacharyaaa&theme=zen&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F155804333%3Fu%3D438a4b6432a2830acef59ab2123087e839e34cc6%26v%3D4" alt="rakeshacharyaaa hero visual" />
 </p>
 
 **rakesh_acharyaaa** · Frontend or full-stack engineer
@@ -21,7 +21,7 @@
 ## Tools I’m practicing
 
 <p align="center">
-  <img src="https://www.gitskins.com/api/section/stack?username=rakeshacharyaaa&theme=zen&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F155804333%3Fu%3Da5ef95ab5486bd32ba82f3f9c013e347c8ef3211%26v%3D4" alt="rakeshacharyaaa stack visual" />
+  <img src="https://www.gitskins.com/api/section/stack?username=rakeshacharyaaa&theme=zen&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F155804333%3Fu%3D438a4b6432a2830acef59ab2123087e839e34cc6%26v%3D4" alt="rakeshacharyaaa stack visual" />
 </p>
 
 ## Projects in progress
@@ -37,12 +37,12 @@ A selected project from this GitHub profile.<br/>
 
 ## Progress so far
 
-- **Current streak:** 0 days
+- **Current streak:** 1 days
 - **Longest streak:** 3 days
-- **Active days:** 12 days
+- **Active days:** 13 days
 
 <p align="center">
-  <img src="https://www.gitskins.com/api/section/stats?username=rakeshacharyaaa&theme=zen&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F155804333%3Fu%3Da5ef95ab5486bd32ba82f3f9c013e347c8ef3211%26v%3D4" alt="rakeshacharyaaa stats visual" />
+  <img src="https://www.gitskins.com/api/section/stats?username=rakeshacharyaaa&theme=zen&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F155804333%3Fu%3D438a4b6432a2830acef59ab2123087e839e34cc6%26v%3D4" alt="rakeshacharyaaa stats visual" />
 </p>
 
 ## Learning streak
@@ -54,7 +54,7 @@ A selected project from this GitHub profile.<br/>
 ## Say hello
 
 <p align="center">
-  <img src="https://www.gitskins.com/api/section/social?username=rakeshacharyaaa&theme=zen&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F155804333%3Fu%3Da5ef95ab5486bd32ba82f3f9c013e347c8ef3211%26v%3D4" alt="rakeshacharyaaa social visual" />
+  <img src="https://www.gitskins.com/api/section/social?username=rakeshacharyaaa&theme=zen&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F155804333%3Fu%3D438a4b6432a2830acef59ab2123087e839e34cc6%26v%3D4" alt="rakeshacharyaaa social visual" />
 </p>
 
 <a href="https://github.com/rakeshacharyaaa">GitHub</a>
